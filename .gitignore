@@ -1,0 +1,10 @@
+# Datos generados (se recrean ejecutando el notebook)
+*.db
+data/raw/
+bolsa_chile_crudo.csv
+datos_dashboard.csv
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
